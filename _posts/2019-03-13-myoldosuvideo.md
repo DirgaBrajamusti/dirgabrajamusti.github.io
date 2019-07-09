@@ -9,7 +9,7 @@ tags:
 ---
 
 ## osu!AllStar Line Group Player Project
-{% include youtube.html id='7u7fYJIGav8' %}
+{% include video id="7u7fYJIGav8" provider="youtube" %}
 [If Embed video is not working](https://www.youtube.com/watch?v=7u7fYJIGav8 "If Embed video is not working")
 ### Featuring players:
 - RTRx: [https://osu.ppy.sh/u/RTRx](https://osu.ppy.sh/u/RTRx)
@@ -25,7 +25,7 @@ tags:
 
 
 ## Yooh - MariannE
-{% include youtube.html id='Qf5hOyoU_HA' %}
+{% include video id="Qf5hOyoU_HA" provider="youtube" %}
 [If Embed video is not working](https://www.youtube.com/watch?v=Qf5hOyoU_HA "If Embed video is not working")
 ### Featuring Players:
 - Fadhil Ghufran: -
