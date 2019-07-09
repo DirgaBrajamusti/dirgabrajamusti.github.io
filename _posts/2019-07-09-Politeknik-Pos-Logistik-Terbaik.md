@@ -57,4 +57,4 @@ Mungkin sekarang kalian sudah mengerti jurusan apa saja yang ditawarkan oleh Pol
 Nah tunggu apa lagi, buat kalian yang bingung. Kalian bisa coba untuk mengambil ilmu bersama kami di Politeknik Pos Indonesia. Karena kampus Poltekpos adalah salah satu kampus terbaik di indonesia dan yang terunggul terutama di bidang logistik serta rantai pasok. 
 
 
-{: .text-center}*"We all get the same set of instructions when we are born into this world. Your Life, Your choice."*
+*"We all get the same set of instructions when we are born into this world. Your Life, Your choice."*
