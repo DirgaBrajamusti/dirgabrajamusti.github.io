@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Kampus Berbasis Logistik Terbaik dan Pertama di Indonesia yang Bisa Kamu Pertimbangkan!
 categories: 
   - Posts
