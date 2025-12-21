@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "Dirga Brajamusti"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Frosted Sakura"
+  bio              : ""
   location         : "Bandung, Indonesia"
   email            :
   links:
